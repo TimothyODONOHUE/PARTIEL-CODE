@@ -1,0 +1,271 @@
+body {
+    margin: 0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.menu {
+    background-color:#FF0026;
+    height:200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.logo-banner {
+    
+
+}
+
+.logo-banner-menu {
+    height: 70px;
+}
+
+.banner-titre-principal {
+    color: white;
+    font-size: 44px;
+}
+
+.haut-de-page{
+    background-image:url(.//IMG/15.png);
+    background-size:cover;
+    height: 966px;
+    
+}
+
+.punchline-gobal {
+    display: flex;
+    justify-content: center;
+}
+
+
+.punchline1 {
+
+    background-color: rgba(36, 36, 36, 0.332);
+    color:white;
+    font-size: 45px;
+    margin-top: 110px;
+}
+
+.img-top {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 120px;
+    display: flex;
+    justify-content: center;
+    margin-top:150px;
+    
+}
+
+
+.img3 {
+    height: 300px;
+}
+
+.img2 {
+    height: 300px;
+}
+
+.img1 {
+    height: 300px;
+}
+
+.boutton-allez-plus-bas {
+    display: flex;
+    justify-content: center;
+    padding-top:170px;
+}
+
+.btn {
+    width: 550px;
+    height:60px;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: #198754;
+    color:white;
+    border:none;
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px #105A38;
+
+}
+
+.btn:hover {
+    cursor: pointer;
+  }
+
+.annonces123 {
+    display:flex;
+    justify-content: space-between;
+    padding-top:100px;
+    
+}
+
+.annonce-titre {
+    margin-left: 65px;
+}
+
+  .rectangle1 {
+    height:545px;
+    border: 2px rgb(101, 101, 101) solid;
+    width:400px;
+    background-color:#ffffff;
+    border-radius: 4px;
+    margin-left:250px;
+   
+  }
+
+  .img1-annonces {
+    display:flex;
+    justify-content:center;
+  }
+.image-plus {
+    height:305px;
+}
+
+.titre-texte-annonce1 {
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+
+}
+
+.texte-annonce1 {
+    display:flex;
+    justify-content:center;
+    text-align:center ;
+    font-size:16px;
+
+}
+
+.titre-annonce1 {
+    display:flex;
+    justify-content:center;
+    text-align:center ;
+}
+
+.btn2 {
+    width: 200px;
+    height:50px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #198754;
+    color:white;
+    border:none;
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px #105A38;
+}
+
+.boutton-ajouter1{
+    display:flex;
+    justify-content:center;
+}
+
+.rectangle2 {
+    height:545px;
+    border: 2px rgb(101, 101, 101) solid;
+    width:400px;
+    background-color:#ffffff;
+    border-radius: 4px;
+  }
+
+  .rectangle3 {
+    height:545px;
+    border: 2px rgb(101, 101, 101) solid;
+    width:400px;
+    background-color:#ffffff;
+    border-radius: 4px;
+    margin-right:250px;
+  }
+
+  .img2-annonces {
+    display:flex;
+    justify-content:center;
+  }
+.image2 {
+    height: 305px;
+    max-width:400px ;
+}
+
+.annonces456 {
+    display:flex;
+    justify-content: space-between;
+    padding-top:250px;
+}
+
+.btn2:hover {
+    cursor: pointer;
+  }
+
+.pourcentage {
+    margin-top: 100px;
+    background-color: #EAE5E5;
+    height: 800px;
+    display:flex;
+    justify-content: space-around;
+    
+
+}
+
+.titre-texte-apres-annonces {
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+}
+
+.texte-apres-annonces {
+    display:flex;
+    justify-content:center;
+    text-align:center ;
+    font-size:16px;
+    font-weight: bold;
+
+}
+
+.titre-apres-annonces {
+    display:flex;
+    justify-content:center;
+    text-align:center ;
+    font-size: 90px;
+}
+
+.rectanglefinal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 120px;
+    height:545px;
+    border: 1px rgb(101, 101, 101) solid;
+    width:425px;
+    background-color:#ffffff;
+    border-radius: 4px;
+    
+}
+
+.rectanglefinal1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 120px;
+    height:545px;
+    border: 1px rgb(101, 101, 101) solid;
+    width:425px;
+    background-color:#ffffff;
+    border-radius: 4px;
+    margin-left:250px;
+    
+}
+
+.rectanglefinal3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 120px;
+    height:545px;
+    border: 1px rgb(101, 101, 101) solid;
+    width:425px;
+    background-color:#ffffff;
+    border-radius: 4px;
+    margin-right:250px;
+    
+}
